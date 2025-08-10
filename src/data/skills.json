@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.svg"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express-original.svg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.svg"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.svg"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.svg"
+  },
+  {
+    "title": "REST API",
+    "imageSrc": "skills/rest-api-icon.webp"
+  },
+  {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwind-css.svg"
+  }
+  
+]

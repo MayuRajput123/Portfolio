@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["React",  "Redux Toolkit", "API"],
+    "demo": "https://harshadagirase.github.io/Portfolio/",
+    "source": "https://github.com/HarshadaGirase/Portfolio"
+  },
+
+  {
+    "title": "Code Review",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["MERN Stack","Rest API"],
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Code-Review"
+  },
+  {
+    "title": "Employee-Management-System",
+    "imageSrc": "projects/project.png",
+    "description": " ",
+    "skills": ["Reactjs","HTML","TailwindCSS","Javascript"],
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Employee-Management-System"
+  },
+    {
+    "title": "Whether-App",
+    "imageSrc": "projects/project.png",
+    "description": " ",
+    "skills": ["HTML","CSS", "JS", "API"],
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Whether-App"
+  },
+  {
+    "title": "Simon Game",
+    "imageSrc": "projects/project.png",
+    "description": " ",
+    "skills": ["HTML","CSS", "Javascript"],
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Simon-Game"
+  },
+
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Calculator"
+  },
+  {
+    "title": "Tic-Tac-Toe-Game",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Tic-Tac-Toe-Game"
+  }
+ 
+]
