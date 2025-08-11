@@ -4,12 +4,12 @@
     "imageSrc": "projects/project.png",
     "description": "",
     "skills": ["React",  "Redux Toolkit", "API"],
-    "demo": "https://harshadagirase.github.io/Portfolio/",
-    "source": "https://github.com/HarshadaGirase/Portfolio"
+    "demo": "",
+    "source": "https://github.com/MayuRajput123/Portfolio"
   },
 
   {
-    "title": "Code Review",
+    "title": "AI-Powered Code Reviewer",
     "imageSrc": "projects/project.png",
     "description": "",
     "skills": ["MERN Stack","Rest API"],
@@ -17,15 +17,15 @@
     "source": "https://github.com/MayuRajput123/Code-Review"
   },
   {
-    "title": "Employee-Management-System",
+    "title": "Employee Management System",
     "imageSrc": "projects/project.png",
     "description": " ",
-    "skills": ["Reactjs","HTML","TailwindCSS","Javascript"],
+    "skills": ["React","HTML","TailwindCSS","Javascript"],
     "demo": "",
     "source": "https://github.com/MayuRajput123/Employee-Management-System"
   },
     {
-    "title": "Whether-App",
+    "title": "Wheather App",
     "imageSrc": "projects/project.png",
     "description": " ",
     "skills": ["HTML","CSS", "JS", "API"],
